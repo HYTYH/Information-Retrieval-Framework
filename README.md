@@ -3,6 +3,15 @@
 A generic information retrival framework.
 
 ---
+## ✔Getting Started
+
+### Requirements
+- lxml
+- urllib
+- bs4
+
+
+---
 ## 👀Notice
 More details can be found [here](https://github.com/HYTYH/Information-Retrival-Framework/blob/main/docs/InformationRetrievalFramework_doc.pdf)
 
