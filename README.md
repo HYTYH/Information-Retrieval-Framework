@@ -1,4 +1,4 @@
-# Information-Retrival-Framework
+# Information-Retrieval-Framework
 
 A generic information retrival framework.
 
